@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Pedro-git" height="30" width="40" src="https://raw.githubusercontent.com/pedrobrossmann/pedrobrossmann/main/icons/github.png" />
   <img align="center" alt="Pedro-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Pedro-appium" height="30" width="40" src="https://raw.githubusercontent.com/pedrobrossmann/pedrobrossmann/main/icons/appium.svg" >
   <img align="center" alt="Pedro-cypress" height="30" width="40" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/favicon/favicon.ico" />
